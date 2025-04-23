@@ -22,7 +22,7 @@ pip install currencyconverter
 
 Clone this repository:
 
-git clone https://github.com/your-username/currency-converter.git
+git clone https://github.com/Abhyansh22/currency-converter.git
 
 cd currency-converter
 
